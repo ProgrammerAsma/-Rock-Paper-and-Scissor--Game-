@@ -141,7 +141,7 @@ class Game:
                   f"Player 2: {self.player2.score}")
             print(colored(
                 "Life is either a daring adventure or nothing at all" +
-                ",Tray again.", "yellow"))
+                ",Try again.", "yellow"))
 # print("It just a Game ! Thank you for playing with us!"
             print("")
             user_choice = input(
